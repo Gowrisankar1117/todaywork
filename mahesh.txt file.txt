@@ -1,9 +1,9 @@
-hi  
+hi our government doing lot of nasty things  
 hello 
 how r u 
 int a=10,b=30;
 scan{a & b}
-printf ("a and b")
+printf ("a and b") those are conducted by ys jagan:
 we are from linux background and we did lot45: of functions
 in linux operating system
 but u are also came from linux only
