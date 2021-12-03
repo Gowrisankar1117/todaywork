@@ -1,9 +1,11 @@
-linux commands 
-head
 tail 
 cut
 sed
-uniq
 copy
 move
 sort
+git commit 
+git merge 
+git show 
+git add
+
